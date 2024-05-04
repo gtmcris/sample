@@ -1,0 +1,14 @@
+C:\C# Projects\for_statement\forLoopProjects\SampleProject\bin\Debug\net8.0\SampleProject.exe
+C:\C# Projects\for_statement\forLoopProjects\SampleProject\bin\Debug\net8.0\SampleProject.deps.json
+C:\C# Projects\for_statement\forLoopProjects\SampleProject\bin\Debug\net8.0\SampleProject.runtimeconfig.json
+C:\C# Projects\for_statement\forLoopProjects\SampleProject\bin\Debug\net8.0\SampleProject.dll
+C:\C# Projects\for_statement\forLoopProjects\SampleProject\bin\Debug\net8.0\SampleProject.pdb
+C:\C# Projects\for_statement\forLoopProjects\SampleProject\obj\Debug\net8.0\SampleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\for_statement\forLoopProjects\SampleProject\obj\Debug\net8.0\SampleProject.AssemblyInfoInputs.cache
+C:\C# Projects\for_statement\forLoopProjects\SampleProject\obj\Debug\net8.0\SampleProject.AssemblyInfo.cs
+C:\C# Projects\for_statement\forLoopProjects\SampleProject\obj\Debug\net8.0\SampleProject.csproj.CoreCompileInputs.cache
+C:\C# Projects\for_statement\forLoopProjects\SampleProject\obj\Debug\net8.0\SampleProject.dll
+C:\C# Projects\for_statement\forLoopProjects\SampleProject\obj\Debug\net8.0\refint\SampleProject.dll
+C:\C# Projects\for_statement\forLoopProjects\SampleProject\obj\Debug\net8.0\SampleProject.pdb
+C:\C# Projects\for_statement\forLoopProjects\SampleProject\obj\Debug\net8.0\SampleProject.genruntimeconfig.cache
+C:\C# Projects\for_statement\forLoopProjects\SampleProject\obj\Debug\net8.0\ref\SampleProject.dll
